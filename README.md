@@ -6,3 +6,4 @@
 #### 1. [让自己习惯C++](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter1)
 * 条款01：[视C++为一个语言联邦](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter1/item01)
 * 条款02：[尽量以const,enum,inline替换 #define](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter1/item02)
+* 条款03：[尽可能使用const](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter1/item03)
