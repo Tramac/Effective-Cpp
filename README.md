@@ -12,3 +12,4 @@
 #### 2. [构造/析构/赋值运算](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2)
 * 条款05：[了解C++默默编写并调用哪些函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item05)
 * 条款06：[若不想使用编译器自动生成的函数，就该明确拒绝](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item06)
+* 条款07：[为多态基类声明virtual析构函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item07)
