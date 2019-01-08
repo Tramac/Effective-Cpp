@@ -3,8 +3,8 @@
 
 int main()
 {
-	// -----Demo 3.-----
-	BuyTransaction3 b(1);
+    // -----Demo 3.-----
+    BuyTransaction3 b(1);
 
-	return 0;
+    return 0;
 }
