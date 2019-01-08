@@ -14,3 +14,4 @@
 * 条款06：[若不想使用编译器自动生成的函数，就该明确拒绝](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item06)
 * 条款07：[为多态基类声明virtual析构函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item07)
 * 条款08：[别让异常逃离析构函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item08)
+* 条款09：[绝不在构造和析构过程中调用virtual函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item09)
