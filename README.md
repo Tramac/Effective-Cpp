@@ -16,3 +16,4 @@
 * 条款08：[别让异常逃离析构函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item08)
 * 条款09：[绝不在构造和析构过程中调用virtual函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item09)
 * 条款10：[令operator=返回一个reference to *this](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item10)
+* 条款11：[在operator=中处理“自我赋值”](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item11)
