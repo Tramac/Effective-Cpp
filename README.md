@@ -18,3 +18,6 @@
 * 条款10：[令operator=返回一个reference to *this](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item10)
 * 条款11：[在operator=中处理“自我赋值”](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item11)
 * 条款12：[复制对象时勿忘其每一个成分](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item12)
+
+#### 3. [资源管理](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3)
+* 条款13：[以对象管理资源](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item13)
