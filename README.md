@@ -17,3 +17,4 @@
 * 条款09：[绝不在构造和析构过程中调用virtual函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item09)
 * 条款10：[令operator=返回一个reference to *this](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item10)
 * 条款11：[在operator=中处理“自我赋值”](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item11)
+* 条款12：[复制对象时勿忘其每一个成分](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter2/item12)
