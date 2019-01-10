@@ -25,3 +25,6 @@
 * 条款15：[在资源管理类中提供对原始资源的访问](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item15)
 * 条款16：[成对使用new和delete时采取相同形式](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item16)
 * 条款17：[以独立语句将newed对象置入智能指针](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item17)
+
+#### 4. [设计与声明](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4)
+* 条款18：[让接口容易被正确使用，不易被误用](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item18)
