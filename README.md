@@ -21,3 +21,4 @@
 
 #### 3. [资源管理](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3)
 * 条款13：[以对象管理资源](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item13)
+* 条款14：[在资源管理类中小心copying行为](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item14)
