@@ -28,3 +28,4 @@
 
 #### 4. [设计与声明](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4)
 * 条款18：[让接口容易被正确使用，不易被误用](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item18)
+* 条款18：[设计class犹如设计type](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item19)
