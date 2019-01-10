@@ -23,3 +23,4 @@
 * 条款13：[以对象管理资源](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item13)
 * 条款14：[在资源管理类中小心copying行为](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item14)
 * 条款15：[在资源管理类中提供对原始资源的访问](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item15)
+* 条款16：[成对使用new和delete时采取相同形式](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter3/item16)
