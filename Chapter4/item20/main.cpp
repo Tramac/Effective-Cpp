@@ -12,14 +12,22 @@ bool validateStudent2(const Student& s) {
 
 // -----Demo 3.-----
 void printNameAndDisplay(const Window& w) {
-	std::cout << w.name();
-	w.display();
+    std::cout << w.name();
+    w.display();
 }
 
 int main()
 {
-	// -----Demo 1.-----
-	Student plato;
-	bool platoIsOk = validateStudent(plato); // 调用函数
-	return 0;
+    // -----Demo 1.-----
+    Student plato;
+    bool platoIsOk = validateStudent(plato); // 调用函数
+
+    // -----Demo 3.-----
+    Window w;
+    printNameAndDisplay(w);
+    
+    WindowWithScrollBars wwsb;
+    printNameAndDisplay(wwsb);
+
+    return 0;
 }
