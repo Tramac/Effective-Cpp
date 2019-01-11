@@ -33,3 +33,4 @@
 * 条款21：[必须返回对象时，别妄想返回其reference](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item21)
 * 条款22：[将成员变量声明为private](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item22)
 * 条款23：[宁以non-member、non-friend替换member函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item23)
+* 条款24：[若所有参数皆需类型转换，请为此采用non-member函数](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item24)
