@@ -30,3 +30,4 @@
 * 条款18：[让接口容易被正确使用，不易被误用](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item18)
 * 条款19：[设计class犹如设计type](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item19)
 * 条款20：[宁以pass-by-reference-to-const替换pass-by-value](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item20)
+* 条款21：[必须返回对象时，别妄想返回其reference](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter4/item21)
