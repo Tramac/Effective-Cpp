@@ -38,3 +38,4 @@
 
 ### 5. [实现](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5)
 * 条款26：[尽可能延后变量定义式的出现时间](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item26)
+* 条款27：[尽量少做转型动作](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item27)
