@@ -40,3 +40,4 @@
 * 条款26：[尽可能延后变量定义式的出现时间](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item26)
 * 条款27：[尽量少做转型动作](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item27)
 * 条款28：[避免返回handles指向对象内部成分](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item28)
+* 条款29：[为“异常安全”而努力是值得的](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item29)
