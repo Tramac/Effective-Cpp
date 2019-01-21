@@ -42,3 +42,4 @@
 * 条款28：[避免返回handles指向对象内部成分](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item28)
 * 条款29：[为“异常安全”而努力是值得的](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item29)
 * 条款30：[透彻了解inlining的里里外外](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item30)
+* 条款31：[将文件间的编译依存关系降至最低](https://github.com/Tramac/Effective-Cpp/tree/master/Chapter5/item31)
